@@ -1,2 +1,2 @@
-# Neural-network-computing
+# Neural-computing-lab
 
